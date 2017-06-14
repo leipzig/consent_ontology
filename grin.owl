@@ -10644,10 +10644,63 @@ This issue is outside the scope of OBI.</obo:IAO_0000116>
     
 
 
+    <!-- http://purl.obolibrary.org/obo/ico.owl#GRIN_findings -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/ico.owl#GRIN_findings">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000018"/>
+        <dc:description>Your child’s sample may be studied in a research lab to look for changes in their genes that may be associated with your child’s main diagnosis or that may be important for health. These studies may find answers for your child’s main diagnosis, but it may also find changes related to other health issues (called secondary findings). Secondary findings could tell us about other health issues that a person may have or might develop, as well as risks of having a child with a specific disease.
+By being in this study, you may receive results about your child’s main health issue and possible secondary findings. You may choose the types of information you wish to receive.
+It is important to know that genetic testing does not find all causes of disease. There may be genetic changes that will not be found or reported. It is possible that this study will not identify the cause of your child’s health issue. Genetic testing can find the cause of a person’s main health issue in about 10 to 30 percent of people (1 out of every 3 to 10 families). Failure to find a result does not mean that the cause of your child’s health issue is not genetic or predict the risk of getting a disease in the future.
+Depending on your individual preference we may or may not release certain types of results, including:
+• Inconclusive or uncertain incidental findings,
+• Results that cause a difference in response to medication or a minor increased risk
+for common adult onset diseases, such as heart disease or Alzheimer’s disease,
+• Results that do not have associated health problems, such as baldness,
+• Results related to certain untreatable adult onset disorders, such as dementia or other neurodegenerative disease,
+• Results related to secondary findings in family members
+ 
+How and when will study results be verified and returned to you?
+Throughout this study, a group of experts in genetics will review and confirm all findings before they are released to you or your doctors.
+We will return the results to you based on what you chose in the results questionnaire. Samples will be stored and re-analyzed during the study.
+There are experts in explaining genetic results (genetic counselors) in this study who are available at no cost if you have questions and to help you understand your child’s results. If you seek genetic counseling outside of the study, you may be responsible for paying for those services.
+Data analysis in this study will be on going. Due to this there may be additional results that are found after you received results initially. If this occurs and you said you wanted these types of results and agreed to future contact then we will reach out and see if you would like this additional information.
+Before returning any results to you they will be validated in a Clinical Laboratory Improved Amendments (CLIA) approved diagnostic lab to confirm the research-based findings.
+With your permission, we may also release your test results to your child’s pediatrician and/or another health care provider.</dc:description>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ico.owl#GRIN_future_use -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/ico.owl#GRIN_future_use">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ICO_0000030"/>
+        <dc:description>Researchers’ understanding of exome and genome sequencing is improving with time. Therefore, it is possible that future testing or re-analysis of prior test results may find results that are not identified or understood on current testing. If your child’s symptoms or diagnosis change significantly in the future, please feel free to contact us so that we can consider the possibility of pursuing additional analysis on your child’s samples. In addition, you and your child’s doctor can also discuss the possibility of additional clinical testing that may be relevant in the future. Due to financial and time constraints, we cannot guarantee when or if additional analysis will be performed on your child’s samples for the purposes of this study.
+Consent for Re-Linking Samples and Data For Future Research (Optional)
+As explained earlier, researchers might want to link your personal information to your samples. They might also want to contact you to see if you are willing to take part in a future research study.
+
+Please indicate whether you will allow your data or samples to be relinked to your personal information if needed for future research, by putting your initials next to one of the following choices:
+_____ (initials) I do not want my data and specimens to ever be relinked to my personal information.
+_____ (initials) Provided that the IRB approves, I agree to allow my data and specimens to be relinked for future research.
+Please also indicate whether we (or other researchers) may contact you about taking part in future studies by putting your initials next to one of the following choices:
+_____ (initials) I do not wish to be contacted about future research.
+_____ (initials) Provided that the IRB approves, I agree to be contacted to take part in future research.</dc:description>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/ico.owl#GRIN_informed_consent -->
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/ico.owl#GRIN_informed_consent">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ICO_0000061"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ico.owl#GRIN_results_questionnaire -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/ico.owl#GRIN_results_questionnaire">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ICO_0000104"/>
+        <obo:IAO_0000115>Results questionnaire, surveys and interviews: For patients, we will ask you and/or your parents to complete and sign a questionnaire indicating which of your genetic testing results you want us to return to you. You will receive a copy of the completed questionnaire. There may also be additional surveys as part of this study to help us address ethical, legal, and social implications of genetic testing.</obo:IAO_0000115>
     </owl:NamedIndividual>
     
 
