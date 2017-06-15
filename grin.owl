@@ -10644,6 +10644,31 @@ This issue is outside the scope of OBI.</obo:IAO_0000116>
     
 
 
+    <!-- http://purl.obolibrary.org/obo/ico.owl#GRIN_confidentiality -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/ico.owl#GRIN_confidentiality">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ICO_0000135"/>
+        <dc:description>As part of this research, health information about your child will be collected. This will include information from your child’s paper and electronic medical records, tests performed on your child’s biological specimens, and surveys and interviews administered as part of this research. We will do our best to keep your child’s personal information private and confidential. However, we cannot guarantee absolute confidentiality. Your child’s personal information may be disclosed if required by law.
+The results of this study may be shown at meetings and published in journals to inform other doctors and health professionals. Your child’s data and information may also be shared with other researchers or internal and external scientific databases or repositories, including AudGenDB (a genetic database for hearing loss) and the NIH database of Genotypes and Phenotypes (dbGap), for example. Sharing these materials will allow for further research and a better understanding of genetic disease. We will keep your child’s identity private if we share the data in any publication or presentation, as well as with outside researchers and databases.
+Several people and organizations may review or receive your child’s identifiable information. They will need this information to conduct the research, to assure the quality of the data, or to analyze the data or samples. These groups include:
+• Members of the research team and other authorized staff at CHOP;
+• People from agencies and organizations that perform independent accreditation and/or oversight of research; such as the Department of Health and Human Services, Office for Human Research Protections.
+• The National Institutes of Health
+By law, CHOP is required to protect your child’s health information. The research staff will only allow access to your child’s health information to the groups listed above. By signing this document, you are authorizing CHOP to use and/or release your child’s health information for this research. Some of the organizations listed above may not be required to protect your child’s information under Federal privacy laws. If permitted by law, they may be allowed to share it with others without your permission.
+There is no set time for destroying the information that will be collected for this study. Your permission to use and share the information and data from this study will continue until the research study ends and will not expire. Researchers continue to analyze data for many years and it is not possible to know when they will be completely finished.</dc:description>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ico.owl#GRIN_data_reuse -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/ico.owl#GRIN_data_reuse">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ICO_0000134"/>
+        <dc:description>The samples and test results will be shared with other researchers. Anyone who uses your child’s samples and data for future research will not know who your child is. They will only get the code number. Because all information and samples will be coded, it will not be possible to share all test results with you or your doctors. In addition, many genetic tests are experimental, and the meaning of the test results is not known.</dc:description>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/ico.owl#GRIN_findings -->
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/ico.owl#GRIN_findings">
@@ -10705,11 +10730,66 @@ _____ (initials) Provided that the IRB approves, I agree to be contacted to take
     
 
 
+    <!-- http://purl.obolibrary.org/obo/ico.owl#GRIN_risks -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/ico.owl#GRIN_risks">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ICO_0000128"/>
+        <dc:description>Taking part in a research study involves inconveniences and risks. If you have any questions about any of the possible risks listed below, you should talk to your study doctor or your regular doctor.
+Risks associated with blood draws:
+Taking blood may cause some pain, bleeding or bruising at the spot where the needle enters your body. Rarely, taking blood may cause fainting or infection. If possible, the research blood sample(s) will be taken at the same time you have blood drawn for clinical care or through an existing catheter already inserted into a vein.
+Risks associated with cheek swabs:
+The physical risks of these are all minimal. A cheek swab could include irritation in the cheek where the swab was taken.
+Risks of skin biopsy:
+A skin biopsy may be requested. The risk of a skin biopsy may include pain, bleeding or bruising at the site of collection and rarely infection. If possible the research sample will be taken at the same time as clinical testing. Skin biopsy would be performed with local anesthetic (lidocaine).
+Risks associated with local numbing medicine
+Complications include allergic reactions to the local anesthesia and bruising or swelling at the site of the biopsy.
+CHOP IRB#: IRB 16-013231
+Effective Date: 1/12/2017
+Expiration Date: 1/11/2018 Page 5 of 16
+ 
+Risks of use of leftover tissue:
+In some instances other tissue that is leftover from a previous clinical or research test may be used. There are no additional risks from the collection of these types of samples.
+Risks to Personal Privacy and Confidentiality:
+Research that uses information from medical records and that involves genetic testing can affect your child’s privacy. Your child’s participation in this research will be held strictly confidential and only a code number will be used to identify your child’s stored samples and data. However, because there will be a link between the code and your child’s identity, confidentiality cannot be guaranteed.
+Since future research studies will involve genetic analyses, potential risks include stigmatization of individuals or groups of individuals. It could also affect your child’s insurability. The protections in place minimize those risks. Only coded samples will be stored and used for future research.
+There may be other risks that are not known at this time. Tell the study investigator or study staff right away if you have any concerns.
+Risks associated with review of medical records/history, obtaining photographs, and participating in surveys/interviews:
+There are no physical risks with these procedures. There is a possibility that participation
+in this study may make you feel uncomfortable. You do not have to answer any survey or interview questions that you do not wish to answer. You are not required to consent to obtaining photographs.
+Risks associated with genetic testing:
+For some people, genetic testing or receiving test results may cause frustration, anxiety, depression, anger or fear. If you experience any of these we can arrange for you to speak with a genetic counselor or mental health specialist.
+Genetic testing may confirm that your child’s health issue is hereditary (can be present in other family members). Sharing this information with family members could upset them or impact your relationships with them. It can also find results unrelated to the reason for being in this study (secondary findings).
+Information about parentage may be found by this research (including adoption and ancestry, like paternity and maternity). These types of findings will not be shared with you unless there are health concerns or if required by law. We will not reveal this information to any third party, including other family members.
+There is also a Federal law, called the Genetic Information Nondiscrimination Act (GINA), which generally makes it illegal for health insurance companies, group health plans, and most employers to discriminate against your child based on their genetic information. This law may protect your child in the following ways:
+• Health insurance companies and group health plans may not request your child’s genetic information that we get from this research.
+• Health insurance companies and group health plans may not use your child’s genetic information when making decisions regarding your child’s eligibility or premiums.
+• Employers with 15 or more employees may not use your child’s genetic information that we get from this research when making a decision to hire, promote, or fire you or when setting the terms of your employment.
+Be aware that this Federal law does not protect your child or family members against genetic discrimination by companies that sell life insurance, disability insurance, or long- term care insurance.
+• Some genetic information may be unique to you and your family. Therefore, although we will not share your child’s identity with anyone outside of this study, there is a chance that sharing coded genetic information could allow someone to identify your child or your biological relatives, particularly if you have a rare condition or a rare genetic alteration (change).
+• We cannot predict how genetic information will be used in the future. It is possible that this risk could increase over time, as technology improves. Before sharing data, we will verify that measures are in place to protect your child’s privacy and confidentiality to the greatest degree possible.
+• Once data is placed in a public location, such as a database or publication, there is no way to remove it or to completely control its use.</dc:description>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/ico.owl#GRIN_study -->
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/ico.owl#GRIN_study">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ICO_0000055"/>
         <obo:ICO_0000130 rdf:resource="http://purl.obolibrary.org/obo/ico.owl#IRB_16-013231"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ico.owl#GRIN_voluntary -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/ico.owl#GRIN_voluntary">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ICO_0000136"/>
+        <dc:description>If you decide to allow your child to participate in this study, you must consent to participate by reviewing and signing this form. A copy will be given to you to keep as a record. Please consider the study time commitments and responsibilities as a research subject when making your decision about allowing your child to participate in this study. Minors who turn 18 during the study will be given the opportunity to re-consent to participation or to withdraw (either allowing continued use of or removal/destruction of previously collected research data).
+
+Participation in this study is voluntary. You do not have to take part in order for your child to receive care at CHOP.
+
+If you decide not to take part or if you change your mind later there will be no penalties or loss of any benefits to which your child is otherwise entitled.</dc:description>
     </owl:NamedIndividual>
     
 
