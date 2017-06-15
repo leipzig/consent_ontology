@@ -10669,6 +10669,15 @@ There is no set time for destroying the information that will be collected for t
     
 
 
+    <!-- http://purl.obolibrary.org/obo/ico.owl#GRIN_date -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/ico.owl#GRIN_date">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ICO_0000022"/>
+        <dc:date>04/01/2017</dc:date>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/ico.owl#GRIN_findings -->
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/ico.owl#GRIN_findings">
@@ -10717,6 +10726,15 @@ _____ (initials) Provided that the IRB approves, I agree to be contacted to take
 
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/ico.owl#GRIN_informed_consent">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ICO_0000061"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ico.owl#GRIN_investigator -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/ico.owl#GRIN_investigator">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ICO_0000045"/>
+        <dc:description>Ian Krantz, MD</dc:description>
     </owl:NamedIndividual>
     
 
@@ -10777,6 +10795,15 @@ Be aware that this Federal law does not protect your child or family members aga
     <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/ico.owl#GRIN_study">
         <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ICO_0000055"/>
         <obo:ICO_0000130 rdf:resource="http://purl.obolibrary.org/obo/ico.owl#IRB_16-013231"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/ico.owl#GRIN_title -->
+
+    <owl:NamedIndividual rdf:about="http://purl.obolibrary.org/obo/ico.owl#GRIN_title">
+        <rdf:type rdf:resource="http://purl.obolibrary.org/obo/ICO_0000066"/>
+        <dc:title>Pediatric Genomic Sequencing in Health and Disease</dc:title>
     </owl:NamedIndividual>
     
 
